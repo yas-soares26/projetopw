@@ -8,7 +8,6 @@ import Detalhes from '../../views/contents/Detalhes'
 const Content = props => (
 
     <main className="Content">
-
        
 
     </main>

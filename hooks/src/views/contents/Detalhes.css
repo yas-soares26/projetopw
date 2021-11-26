@@ -1,0 +1,13 @@
+.p {
+    flex: 1;
+    padding: 10px;
+    color: #e684a9;
+    font-size: 2rem;
+}
+
+h1, h2 {
+    flex: 1;
+    padding: 10px;
+    color: #e684a9;
+    font-size: 2rem;
+}

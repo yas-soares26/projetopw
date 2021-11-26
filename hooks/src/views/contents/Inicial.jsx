@@ -1,3 +1,4 @@
+import './Inicial.css'
 import React from "react"
 
 const Inicial = props => (

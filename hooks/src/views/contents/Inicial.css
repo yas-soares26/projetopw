@@ -1,0 +1,6 @@
+h1, h2 {
+    flex: 1;
+    padding: 10px;
+    color: #f59f9f;
+    font-size: 2rem;
+}
