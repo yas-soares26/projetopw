@@ -4,6 +4,7 @@ import React from "react"
 const Historia = props => (
     
     <div>
+
         <h1>Dança e seus benefícios</h1>
         <h2> Estímulo para o cérebro e para a memória </h2>
         <p> 
@@ -14,6 +15,7 @@ const Historia = props => (
         também para melhoria da coordenação motora e para a concentração. Para os idosos, a prática é sugerida para melhorar 
         a função cognitiva.
         </p>
+    
     </div>
 )
 

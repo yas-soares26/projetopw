@@ -6,14 +6,3 @@
     color: white;
     padding: 30px;
 }
-.titulo {
-    background-color: lightgray;
-    border-bottom: 5px solid gray;
-    padding: 10px;
-    margin-bottom: 20px;
-    color: #1C1C1C;
-    text-align: center;
-}
-.titulo h1, h2 {
-    margin: 0;
-}

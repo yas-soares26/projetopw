@@ -6,15 +6,16 @@ const Menu = props => (
     <aside className="Menu">
         <nav>
             <ul>
+                
                 <li> 
                     <Link to="/Inicial">Inicial</Link>
-                </li>                                
-                <li> 
-                    <Link to="/Historia">História</Link>
                 </li>
                 <li> 
-                    <Link to="/Detalhes">Detalhes</Link>
+                    <Link to="/Historia">Historia</Link>
                 </li>                                
+                <li> 
+                    <Link to="/Detalhes">Detalhes</Link>
+                </li>                  
             </ul>
         </nav>
     </aside>
